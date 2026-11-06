@@ -758,6 +758,7 @@ Daily games receiving notable attention this month.
 - [Spotle Movie](https://spotle.movie/) — Solve Spotle Movies, the daily movie guessing game. · [Daily Game Index](https://dailygameindex.com/games/spotle-movie/)
 - [The Daily Burgle](https://www.thedailyburgle.app/) — Use your knowledge of film to Burgle the daily vault. · [Daily Game Index](https://dailygameindex.com/games/the-daily-burgle/)
 - [Thingdle - Moviedle](https://thingdle.app/en/moviedle) — Guess today's movie from decade, world, genre and locations. · [Daily Game Index](https://dailygameindex.com/games/thingdle-moviedle/)
+- [Trick Shot Cinema](https://trickshotcinema.com/) — Link a start film to an end film through a middle film, naming shared cast and crew from memory.
 - [TV Circuit](https://www.wfhgames.com/tv-circuit) — Connect two actors by degrees of separation. · [Daily Game Index](https://dailygameindex.com/games/tv-circuit/)
 - [TV-Addict](https://tv-addict.com/) — Guess the show, score points, build a streak. · [Daily Game Index](https://dailygameindex.com/games/tv-addict/)
 - [WhenTaken Movies](https://movies.whentaken.com/) — Guess where and when the given movie scene was filmed. · [Daily Game Index](https://dailygameindex.com/games/whentaken-movies/)
